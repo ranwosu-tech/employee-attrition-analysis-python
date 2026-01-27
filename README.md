@@ -1,4 +1,3 @@
-# employee-attrition-analysis-python
 ## Employee Attrition Analysis (Python)
 
 **Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
