@@ -1,5 +1,9 @@
 ## Employee Attrition Analysis (Python)
 
+**Quick links**
+- Notebook: `employee_attrition_analysis.ipynb`
+- Data: Kaggle – Employee Attrition (Patel Prashant)
+
 **Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 **Goal:** Identify patterns and drivers of employee attrition using exploratory data analysis and visualization.
 
