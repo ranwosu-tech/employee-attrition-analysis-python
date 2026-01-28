@@ -18,3 +18,14 @@ This project uses the public Kaggle dataset **Employee Attrition** by Patel Pras
 - Higher attrition among early-career employees (18–25 group about 40% vs about 16% baseline).
 - Overtime is associated with higher attrition (about 30.5% vs about 10% for non-overtime).
 - Frequent travel is associated with higher attrition (about 25% vs about 8% for non-travellers).
+
+### Key Visuals
+
+**Attrition rate by age group**
+![Attrition rate by age group](images/01_attrition_by_age_group.png)
+
+**Attrition rate by overtime**
+![Attrition rate by overtime](images/02_attrition_by_overtime.png)
+
+**Attrition rate by business travel**
+![Attrition rate by business travel](images/03_attrition_by_business_travel.png)
